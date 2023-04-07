@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+
+
+}
+
+
+header{
+display: flex;
+justify-content: center;
+border: 10px double rgb(98, 0, 255);
+background-color: rgb(255, 9, 234);
+border-radius: 100px;
+font-size: x-large;
+font-family: 'Courier New', Courier, monospace;
+font-variant: initial;
+
+
+}
+
+nav{
+    text-align: center;
+   font-size: large;
+
+
+}
+
+main{
+    display: flex;
+    justify-content: center;
+ 
+    
+
+
+
+}
+ul{
+  list-style: none;
+
+
+}
+a{
+ text-decoration: none;
+
+
+}
